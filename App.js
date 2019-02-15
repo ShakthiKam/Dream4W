@@ -10,7 +10,8 @@ import { StyleSheet, Text, View, Video } from 'react-native';
 const App = () => {
    return (
       <New />
-      <Home />
+     /* <Home />
+     */
       
    )
 }
